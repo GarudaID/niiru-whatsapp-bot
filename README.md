@@ -95,6 +95,48 @@ niiru.on('ready', (session) => {
 
 niiru.start(); 
 ```
+	 
+**intentsConfig**: 
+```json
+{
+	"showContent": false,
+	"debug": false,
+	"removeBgApis": [],
+	"plugins": {
+        "folder": "../plugins",
+        "plugins": [],
+        "setup": {}
+    },
+	"executions": {
+		"reponseUsers": true,
+		"simulateTyping": true,
+		"timeSimulate": 3000,
+		"contorlExecutions": false,
+		"maxExecutions": 30,
+		"timeInterval": 10,
+		"timePending": 3,
+		"sendSeen": true,
+		"sendSeenFull": false,
+		"intervalSendSeen": 10
+	},
+	"bann": {
+		"active": false,
+		"timeInterval": 10,
+		"maxBann": 3,
+		"timeBann": 10,
+		"timeInactive": 5,
+		"whiteList": []
+	},
+	"messages":{
+		"userBanned": "⛔😡 *Kami melaporkan bahwa Anda telah diblokir sementara karena menyalahgunakan layanan kami * \n _Silakan coba lagi setelahnya {{TIMEBANN}} minutes_ 🤬",
+		"groupBanned": "⛔😡 *Kami melaporkan bahwa grup ini telah diblokir sementara karena penyalahgunaan layanan kami oleh '{{USER_NAME}}' (+ {{USER_NUMBER}}) * \n _Silakan coba lagi setelahnya {{TIMEBANN}} minutes_ 🤬",
+		"privileges": "⛔ *Sayangnya Anda tidak memiliki hak istimewa, hubungi administrator sistem* ⛔"
+	},
+	"blocked": [],
+	"whiteList": [],
+	"commands": []
+}
+```
 	
 <br>
 	 
