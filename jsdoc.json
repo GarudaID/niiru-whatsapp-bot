@@ -1,0 +1,39 @@
+{
+    "source": {
+        "include": ["src", "plugins", "README.md"],
+        "includePattern": ".js$",
+        "excludePattern": "(node_modules/|docs)"
+    },
+    "plugins": [
+        "plugins/markdown"
+    ],
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": true,
+        "useLongnameInNav": false,
+        "showInheritedInNav": true,
+        "search": true,
+        "better-docs": {
+            "name": "niiru Documentation",
+            "title": "niiru Documentation",
+            "hideGenerator": false,
+                "navLinks": [
+                    {
+                        "label": "Github",
+                        "href": "https://github.com/GarudaID/niiru-whatsapp-bot"
+                    },
+                    {
+                        "label": "Example",
+                        "href": "https://github.com/GarudaID/niiru-whatsapp-bot"
+                    }
+                ]
+            }
+    },
+    "opts": {
+        "encoding": "utf8",
+        "recurse": true,
+        "verbose": true,
+        "destination": "./docs/",
+        "template": "./node_modules/better-docs"
+    }
+}

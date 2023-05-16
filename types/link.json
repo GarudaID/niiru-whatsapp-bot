@@ -1,0 +1,14 @@
+{
+    "required": ["type", "idChat", "link"],
+    "spec": {
+        "type": "",
+        "idChat": "",
+        "idMessage": "",
+        "replyMessage": false,
+        "caption": "",
+        "title": "",
+        "description": "",
+        "thumb": "",
+        "link": ""
+    }
+}
