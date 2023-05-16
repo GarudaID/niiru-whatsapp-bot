@@ -101,10 +101,10 @@ niiru.start();
 <h2 align="center">🔰 Meet GarudaID 🔰
 </h2>
 
-[![Near Hoshinova](https://avatars.githubusercontent.com/u/48685463?v=4)](https://github.com/GarudaID)  | [![Riki-Kun](https://pps.whatsapp.net/v/t61.24694-24/345567465_222096127226497_1286991600149582057_n.jpg?ccb=11-4&oh=01_AdSz1QP8AuwO32I4_hSBaeEk2onUgAntkdEzx5RZIcnTQw&oe=646EC576)](https://github.com/) | [![Rifqi](https://pps.whatsapp.net/v/t61.24694-24/345468021_581149814117174_2180721075700493191_n.jpg?ccb=11-4&oh=01_AdTWPS4VxMbb-dYeEMV1eBZUYDaku6jjFMDGDBneZMZc8w&oe=646F7453)](https://github.com/) | [![Dayat-MD](https://pps.whatsapp.net/v/t61.24694-24/312232660_560313218864801_8972370498920019313_n.jpg?ccb=11-4&oh=01_AdRo0VI6ufcmVu-pSM8rXZxryaeZovPPNuQ3gxy7w0nLdw&oe=6469793E)](https://github.com/) | [![??](https://st3.depositphotos.com/3581215/18899/v/600/depositphotos_188994514-stock-illustration-vector-illustration-male-silhouette-profile.jpg)](https://github.com/) | [![??](https://st3.depositphotos.com/3581215/18899/v/600/depositphotos_188994514-stock-illustration-vector-illustration-male-silhouette-profile.jpg)](https://github.com/)
+[![Near Hoshinova](https://avatars.githubusercontent.com/u/48685463?v=4)](https://github.com/GarudaID)  | [![Riki-Kun](https://i.pinimg.com/750x/6b/4d/46/6b4d46511bce2c4cab8d0fc9eac64e00.jpg)](https://github.com/) | [![Dreyaan](https://avatars.githubusercontent.com/u/79951121?v=4)](https://github.com/Dreyaan) | [![Qalmurri](https://avatars.githubusercontent.com/u/86642474?v=4)](https://github.com/qalmurri) | [![Dayat-MD](https://pps.whatsapp.net/v/t61.24694-24/312232660_560313218864801_8972370498920019313_n.jpg?ccb=11-4&oh=01_AdRo0VI6ufcmVu-pSM8rXZxryaeZovPPNuQ3gxy7w0nLdw&oe=6469793E)](https://github.com/) | [![??](https://st3.depositphotos.com/3581215/18899/v/600/depositphotos_188994514-stock-illustration-vector-illustration-male-silhouette-profile.jpg)](https://github.com/)
 ----|----|----|----|----|----
-[Near Hoshinova](https://github.com/GarudaID)  | [Riki-Kun](https://github.com/) | [Rifqi](https://github.com/pratyush4932) | [Dayat-MD](https://github.com/) | [??](https://github.com/) | [??](https://github.com/)
-Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Ideas, Testing | ??? | ???
+[Near Hoshinova](https://github.com/GarudaID)  | [Riki-Kun](https://github.com/) | [Dreyaan](https://github.com/Dreyaan) | [Qalmurri](https://github.com/qalmurri) | [Dayat-MD](https://github.com/) | [??](https://github.com/)
+Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer | Support Developer | Support Developer | ???
 	 
 ## Disclaimer
 
