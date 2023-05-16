@@ -98,7 +98,7 @@ niiru.start();
 	
 <br>
 	 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center">🔰 Meet GarudaID 🔰
 </h2>
 
 [![Near Hoshinova](https://avatars.githubusercontent.com/u/48685463?v=4)](https://github.com/GarudaID)  | [![Riki-Kun](https://pps.whatsapp.net/v/t61.24694-24/345567465_222096127226497_1286991600149582057_n.jpg?ccb=11-4&oh=01_AdSz1QP8AuwO32I4_hSBaeEk2onUgAntkdEzx5RZIcnTQw&oe=646EC576)](https://github.com/) | [![Rifqi](https://pps.whatsapp.net/v/t61.24694-24/345468021_581149814117174_2180721075700493191_n.jpg?ccb=11-4&oh=01_AdTWPS4VxMbb-dYeEMV1eBZUYDaku6jjFMDGDBneZMZc8w&oe=646F7453)](https://github.com/) | [![Dayat-MD](https://pps.whatsapp.net/v/t61.24694-24/312232660_560313218864801_8972370498920019313_n.jpg?ccb=11-4&oh=01_AdRo0VI6ufcmVu-pSM8rXZxryaeZovPPNuQ3gxy7w0nLdw&oe=6469793E)](https://github.com/) | [![??](https://st3.depositphotos.com/3581215/18899/v/600/depositphotos_188994514-stock-illustration-vector-illustration-male-silhouette-profile.jpg)](https://github.com/) | [![??](https://st3.depositphotos.com/3581215/18899/v/600/depositphotos_188994514-stock-illustration-vector-illustration-male-silhouette-profile.jpg)](https://github.com/)
