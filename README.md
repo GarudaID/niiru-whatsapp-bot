@@ -105,3 +105,9 @@ niiru.start();
 ----|----|----|----|----|----
 [Near Hoshinova](https://github.com/GarudaID)  | [Riki-Kun](https://github.com/) | [Rifqi](https://github.com/pratyush4932) | [Dayat-MD](https://github.com/) | [??](https://github.com/) | [??](https://github.com/)
 Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Ideas, Testing | ??? | ???
+	 
+## Disclaimer
+
+This module is not official WhatsApp so you must be careful with the number of interactions per minute to avoid possible bans, this module has the option of queuing responses to avoid such a situation but does not ensure that actions cannot occur on the part of the company.
+
+This project is inspired by [Wbot](https://github.com/vasani-arpit/WBOT) I just dedicate myself to adding new options to it.
