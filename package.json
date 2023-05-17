@@ -21,8 +21,8 @@
     "client",
     "node"
   ],
-  "author": "Luis Cruz",
-  "license": "ISC",
+  "author": "Near Hoshinova",
+  "license": "GNU",
   "dependencies": {
     "@vitalets/google-translate-api": "^8.0.0",
     "ascii-table": "0.0.9",
