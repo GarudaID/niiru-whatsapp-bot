@@ -7,6 +7,10 @@
 </h1>
 
 <p align="center">
+<a href="#"><img title="Niiru Bot Multi Device." src="https://img.shields.io/badge/Niiru Bot Multi Device.-green?colorA=%1CF336&colorB=%23ff0000&style=for-the-badge"></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/GarudaID"><img title="Owner" src="https://img.shields.io/badge/Owner-GarudaID-white.svg?style=for-the-badge&logo=github" width="170px"></a>
 
  <a href="https://github.com/GarudaID/niiru-whatsapp-bot/blob/main/LICENSE">
